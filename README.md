@@ -1,4 +1,4 @@
-# code-samples
+# portfolio-code-samples
 All my public code, mainly for CV purposes.
 
 ## Welcome to my code samples!
